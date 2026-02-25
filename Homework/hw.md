@@ -14,7 +14,7 @@
 8. [Why Bash Over Other Scripting Languages](#8-bash-advantages)
 9. [Software Depth](#9-software-depth)
 10. [Message Queue](#10-message-queue-systems)
-
+11. [Hop Limit](answers/11.md)
 ---
 
 ## Questions & Answers
